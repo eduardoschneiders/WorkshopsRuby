@@ -15,6 +15,7 @@ puts "i'm the walruls at wall".include?("wall")
 puts " "
 puts " "
 puts " "
+puts "is palindromo?"
 word = 'stressed'
 reversedWord = word.reverse
 word2 = 'desserts'
