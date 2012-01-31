@@ -1,6 +1,6 @@
 phrase = 'aaaaa'
 phrase = phrase.downcase
-puts phrase.count(phrase[0]) == phrase.size
+puts phrase.count(phrase[0]) == phrase.size 
 
 
 qnt = Hash.new()
