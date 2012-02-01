@@ -1,0 +1,2 @@
+:age -> is an object like a ponteiro, tem o mesmo object_id -- como uma define
+"age" -> cada vez referenciado eh criado um novo objeto, vai conter um novo object_id
