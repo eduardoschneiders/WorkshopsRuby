@@ -4,7 +4,7 @@ range = (0..100)
 numGuess = rand(range.first..range.last)
 
 puts "Digite um numero de #{range.first} até #{range.last}: "
-numUser = gets.to_i
+numUser = gets.to_i	
 
 while true
 	if numUser != numGuess
@@ -16,3 +16,13 @@ while true
 		break
 	end
 end
+
+#Mínimo de jogadas para 0 à 100
+#0
+#100
+#50
+#25
+#12
+#6
+#3
+#1
