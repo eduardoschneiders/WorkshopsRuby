@@ -1,0 +1,21 @@
+<html>
+	<head>
+		<title>Tempo para <%=@city%></title>
+	</head>
+	<body style="text-align: center">
+		<h1 style="font-size: 50px;">Today: <%= @weather.current.temperature.c %> C</h1>
+		<img src="images/<%= @weather.current.icon%>.png">
+		
+
+		<p>
+			<ul>
+				<% @weather.forecast.each do |i| %>
+					<li style="list-style: none; float: left; padding: 0 10px;">
+						<%=i.valid_start_date %><br />
+						<img src="images/<%=i.icon %>.png">
+					</li>
+				<%	end %>
+			</ul>
+		</p>
+	</body>
+</html>
