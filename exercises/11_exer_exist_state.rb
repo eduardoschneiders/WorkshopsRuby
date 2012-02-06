@@ -4,7 +4,6 @@
 def state_exist? state
 
 	#Set all the UF
-	states_description = Array.new()
 	states_description = [
 		{"UF" => "AC", "name" => "Acre", "capital" => "Rio Branco"},
 		{"UF" => "AL", "name" => "Alagoas", "capital" => "Maceió"},
