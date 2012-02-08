@@ -15,9 +15,18 @@ class Rich
 		end
 
 	end
+
+	def fortune year
+		@fortune[year]
+	end
+
 end
 
-eduardo = Rich.new "Eduardo Matheus Schneiders", 5_000, 21, "Taquara", %w{TCA Azaléia}
-leoni = Rich.new "Leoni Shinn Schneiders", 4_000, 50, "Santa Cruz do Sul", %w{Azaléia Afubra}
 
-puts eduardo.richer_than?  leoni
+gates = Rich.new "Gates", {2011 => 56}, 21, "Taquara", %w{TCA Azaléia}
+mittal = Rich.new "Mittal",{2011 => 31.1}, 4_000, 50, "Santa Cruz do Sul", %w{Azaléia Afubra}
+eike = Rich.new "eike", {2011 => 30}, 50, "Santa Cruz do Sul", %w{Azaléia Afubra}
+slim = Rich.new "slim", {2011 => 74}, 50, "Santa Cruz do Sul", %w{Azaléia Afubra}
+
+puts gates.fortune 2011
+#puts eduardo.richer_than?  leoni
