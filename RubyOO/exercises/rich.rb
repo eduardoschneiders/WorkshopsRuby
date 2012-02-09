@@ -6,6 +6,7 @@ class Rich
 	def initialize *args
 		@name, @fortune, @age, @born, @companies = args
 	end
+
 	def richer_than? other
 
 		if other.class == self.class
