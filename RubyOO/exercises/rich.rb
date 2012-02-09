@@ -31,3 +31,5 @@ slim = Rich.new "slim", {2011 => 74, 2010 => 53.5, 2009 => 35}, 50, "Santa Cruz 
 
 puts gates.difference 2009, 2011 
 puts gates.richer_than? slim, 2010
+
+gates.rank[2009]
