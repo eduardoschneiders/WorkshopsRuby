@@ -1,0 +1,711 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"y",
+				"younger"
+			],
+			[
+				"ran",
+				"rank"
+			],
+			[
+				"rich",
+				"richest"
+			],
+			[
+				"all",
+				"allRich"
+			],
+			[
+				"d",
+				"def	def … end"
+			],
+			[
+				"fo",
+				"fortuneAll"
+			],
+			[
+				"sor",
+				"sort"
+			],
+			[
+				"nam",
+				"name"
+			],
+			[
+				"for",
+				"fortune"
+			],
+			[
+				"mi",
+				"mittal"
+			],
+			[
+				"se",
+				"seconf_year"
+			],
+			[
+				"retor",
+				"retorna_marcas"
+			],
+			[
+				"marc",
+				"marcas"
+			],
+			[
+				"fe",
+				"ferrari"
+			],
+			[
+				"top",
+				"topNotice"
+			],
+			[
+				"to",
+				"topNotice"
+			],
+			[
+				"backgr",
+				"background	background-color: hex"
+			],
+			[
+				"back",
+				"background	filter: AlphaImageLoader [for IE PNGs]"
+			],
+			[
+				"sql",
+				"sqlInsert"
+			],
+			[
+				"sca",
+				"scan"
+			],
+			[
+				"arr",
+				"Array"
+			],
+			[
+				"uni",
+				"uniq"
+			],
+			[
+				"fa",
+				"factories"
+			],
+			[
+				"st",
+				"string"
+			],
+			[
+				"stri",
+				"string_exemplo"
+			],
+			[
+				"pr",
+				"phrase"
+			],
+			[
+				"cou",
+				"count"
+			],
+			[
+				"wor",
+				"word1"
+			],
+			[
+				"bac",
+				"background	background-color: hex"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"print",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "RubyOO/exercises/cars.rb",
+			"settings":
+			{
+				"buffer_size": 752,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "RubyOO/exercises/modules.rb",
+			"settings":
+			{
+				"buffer_size": 628,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/eduardoschneiders/Projects/ruby_on_rails/WorkshopsRuby/RubyOO/exercises/modules.rb",
+		"/var/www/portal/index.php",
+		"/var/www/portal/linha_topNotices_enquetes_tempo.php",
+		"/var/www/portal/Includes/Classes/html.class.php",
+		"/var/www/portal/Css/Geral.css",
+		"/home/eduardoschneiders/Projects/ruby_on_rails/WorkshopsRuby/RubyOO/exercises/rich.rb",
+		"/var/www/portal/noticias.php",
+		"/home/eduardoschneiders/Desktop/anotations",
+		"/media/Dados/EDUARDO/Musics/search.txt",
+		"/home/eduardoschneiders/Projects/ruby_on_rails/WorkshopsRuby/RubyOO/exercises/herancas.rb",
+		"/home/eduardoschneiders/Projects/ruby_on_rails/WorkshopsRuby/RubyOO/exercises/cars.rb",
+		"/home/eduardoschneiders/Projects/ruby_on_rails/WorkshopsRuby/RubyOO/exercises/animals.rb",
+		"/home/eduardoschneiders/Projects/ruby_on_rails/WorkshopsRuby/RubyOO/exercises/sobrescrevendoMetodo.rb",
+		"/home/eduardoschneiders/Projects/ruby_on_rails/WorkshopsRuby/RubyOO/exercises/mutante.rb",
+		"/var/www/portal/Automatic/clean_hits_conteudos.php",
+		"/home/eduardoschneiders/Desktop/BKP",
+		"/home/eduardoschneiders/Desktop/Quando passar por uma div fundo padão, mudar a cor letra",
+		"/var/www/portal/Includes/banners/downI.php",
+		"/var/www/portal/Includes/banners/downII.php",
+		"/var/www/portal/Automatic/update_noticias.php",
+		"/media/Dados/TCA/banners/testeBusca.php",
+		"/media/Dados/TCA/banners/Classificados.txt",
+		"/home/eduardoschneiders/Projects/ruby_on_rails/WorkshopsRuby/RubyOO/exercises/riches.rb",
+		"/var/www/portal/Includes/banners/topII.php",
+		"/media/Dados/EDUARDO/bkp/2012-01-06/html.class.php",
+		"/var/www/portal/linha_manchetes.php",
+		"/var/www/portal/topHeadlines.php",
+		"/var/www/portal/rss/artigos.php",
+		"/var/www/portal/materias.php",
+		"/var/www/portal/Includes/setVars.php",
+		"/var/www/portal/tempoSmall.php",
+		"/var/www/portal/linha_artigos.php",
+		"/var/www/portal/doisAnos_cotacoes.php",
+		"/var/www/portal/Automatic/update_cotacoes.php",
+		"/var/www/portal/Includes/Classes/banners.class.php",
+		"/var/www/portal/linha_interatividade.php",
+		"/var/www/portal/Includes/banners/bannerTCA.php",
+		"/home/eduardoschneiders/Projects/ruby_on_rails/workshops.sublime-workspace",
+		"/var/www/portal/Includes/banners/bannerTCA.fla",
+		"/var/www/portal/agendaList.php",
+		"/var/www/portal/sql.php",
+		"/var/www/portal/linha_lateral.php",
+		"/var/www/portal/Scripts/Geral.js",
+		"/home/eduardoschneiders/Desktop/Untitled Document",
+		"/var/www/portal/noiteItaliana.php",
+		"/var/www/portal/teste.php",
+		"/var/www/portal/Oktoberfest_Galery.php",
+		"/var/www/portal/teste",
+		"/var/www/portal/Automatic/update_top_notices.php",
+		"/home/eduardoschneiders/Shared Folder/Access",
+		"/var/www/portal/Database/hits_conteudos.sql",
+		"/var/www/portal/Automatic/check_hits_conteudos.php",
+		"/home/eduardoschneiders/Downloads/attack-barometer-b8c08c4/lib/barometer/weather_services/wunderground.rb",
+		"/home/eduardoschneiders/Projects/ruby_on_rails/Workshops/RubyIntro/wheather/views/cidade.erb",
+		"/home/eduardoschneiders/Projects/ruby_on_rails/Workshops/RubyIntro/wheather/server.rb",
+		"/home/eduardoschneiders/Projects/ruby_on_rails/Workshops/RubyIntro/server.rb",
+		"/home/eduardoschneiders/Projects/ruby_on_rails/Workshops/RubyIntro/wheather/views/cidade.erb.html",
+		"/var/www/portal/newsletter_setup.php",
+		"/var/www/portal/Automatic/sendEmailByHour.php",
+		"/var/www/portal/Automatic/clean_hit_conteudos.php",
+		"/var/www/portal/Automatic/calc_hits_conteudos.php",
+		"/home/eduardoschneiders/Desktop/links.txt",
+		"/var/www/portal/Automatic/agendaNoticias.php",
+		"/var/www/portal/Automatic/calc_hits_contteudos.php",
+		"/var/www/portal/Automatic/check_hits_conteudos",
+		"/home/eduardoschneiders/Projects/ruby_on_rails/Workshops/RubyIntro/exercises/07_exer_rx_practicing.rb",
+		"/home/eduardoschneiders/Projects/ruby_on_rails/Workshops/RubyIntro/exercises/08_exer_find_occurrences_in_text.rb",
+		"/home/eduardoschneiders/Projects/ruby_on_rails/Workshops/RubyIntro/exercises/13_fibonacci.rb",
+		"/home/eduardoschneiders/Projects/ruby_on_rails/Workshops/RubyIntro/exercises/09_exer_hash.rb",
+		"/home/eduardoschneiders/Projects/ruby_on_rails/Workshops/RubyIntro/exercises/11_exer_exist_state.rb",
+		"/home/eduardoschneiders/Projects/ruby_on_rails/Workshops/RubyIntro/exercises/13_fi",
+		"/home/eduardoschneiders/Projects/ruby_on_rails/Workshops/RubyIntro/exercises/09_exer_hash",
+		"/home/eduardoschneiders/Desktop/Access",
+		"/home/eduardoschneiders/Projects/ruby_on_rails/Workshops/RubyIntro/exercises/06_exer_rx_with_dates.rb",
+		"/var/www/portal/Includes/config.php",
+		"/home/eduardoschneiders/Desktop/links/links",
+		"/media/Dados/EDUARDO/bkp/2012-01-11/index.php",
+		"/media/Dados/EDUARDO/bkp/2012-01-12/index.html.php",
+		"/home/eduardoschneiders/Projects/ruby_on_rails/RubyIntro/exercises/06_exer_rx_with_dates.rb",
+		"/home/eduardoschneiders/Projects/ruby_on_rails/RubyIntro/exercises/05_exer_regex.rb",
+		"/media/Dados/TCA/GATA/2012/Lista de email criados.txt",
+		"/media/Dados/TCA/GATA/2012/02 - Fevereiro  - SabrinaArnhold/desc.php",
+		"/home/eduardoschneiders/.irbrc",
+		"/home/eduardoschneiders/Projects/ruby_on_rails/RubyIntro/exercises/occurrencesOfLetters.rb",
+		"/home/eduardoschneiders/occurrencesOfLetters.rb",
+		"/home/eduardoschneiders/teste.rb",
+		"/home/eduardoschneiders/Projects/git-tutorial/views/wip.html.slim",
+		"/home/eduardoschneiders/Projects/git-tutorial/views/error.html.slim",
+		"/home/eduardoschneiders/Projects/git-tutorial/views/modifications.html.slim",
+		"/var/www/portal/juridiques.html",
+		"/var/www/portal/paranhanaOn.php",
+		"/var/www/portal/regiao.php",
+		"/var/www/portal/Includes/Classes/newsletter.class.php",
+		"/var/www/portal/Includes/Classes/oConn.class.php",
+		"/media/Dados/EDUARDO/bkp/2012-01-24 - Fullbackup/htdocs/capa-2010-11-08/Css/Geral.css",
+		"/var/www/portal/Database/cotacoes.sql",
+		"/media/Dados/htdocs/portal/Database/cotacoes.sql",
+		"/var/www/portal/Database/portal_tca.sql"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/eduardoschneiders/Downloads/attack-barometer-b8c08c4"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"class",
+			"color: #FFF",
+			")",
+			"195px",
+			"enquete",
+			".top",
+			"artigos",
+			"block",
+			"rows",
+			"chancetstorms",
+			"partlycloudy",
+			"png",
+			"sunny",
+			"alert",
+			"bilhões",
+			"\nbilhões",
+			"down",
+			"aaa",
+			".rightHeadLines ul li",
+			"gata",
+			".glidecontent",
+			"7",
+			"#DDD",
+			"DDD",
+			"diferencaSizes",
+			".artigos",
+			"canais",
+			"coluna",
+			"canais",
+			"glidecontentwrapper",
+			"ListaManchetesDireita",
+			".newsletterFrontPage .interactiveIcons",
+			"insertForm",
+			"formsNewslleters",
+			"rodape",
+			"formsNewslleters",
+			"<div class=\"clear\"></div>",
+			"exit"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "RubyOO/exercises/cars.rb",
+					"settings":
+					{
+						"buffer_size": 752,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 204.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "RubyOO/exercises/modules.rb",
+					"settings":
+					{
+						"buffer_size": 628,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"car",
+				"RubyOO/exercises/cars.rb"
+			],
+			[
+				"inde",
+				"portal/index.php"
+			],
+			[
+				"html.c",
+				"portal/Includes/Classes/html.class.php"
+			],
+			[
+				"css",
+				"portal/Css/Geral.css"
+			],
+			[
+				"index",
+				"portal/index.php"
+			],
+			[
+				"noticias.",
+				"portal/noticias.php"
+			],
+			[
+				"htm",
+				"portal/Includes/Classes/html.class.php"
+			],
+			[
+				"clean",
+				"portal/Automatic/clean_hits_conteudos.php"
+			],
+			[
+				"noticias.php",
+				"portal/noticias.php"
+			],
+			[
+				"top",
+				"portal/topHeadlines.php"
+			],
+			[
+				"linha",
+				"portal/linha_topNotices_enquetes_tempo.php"
+			],
+			[
+				"updatenoticias",
+				"portal/Automatic/update_noticias.php"
+			],
+			[
+				"downi",
+				"portal/Includes/banners/downII.php"
+			],
+			[
+				"down",
+				"portal/Includes/banners/downI.php"
+			],
+			[
+				"topii",
+				"portal/Includes/banners/topII.php"
+			],
+			[
+				"tophe",
+				"portal/topHeadlines.php"
+			],
+			[
+				"html",
+				"portal/Includes/Classes/html.class.php"
+			],
+			[
+				"materias",
+				"portal/materias.php"
+			],
+			[
+				"artigos",
+				"portal/rss/artigos.php"
+			],
+			[
+				"tophea",
+				"portal/topHeadlines.php"
+			],
+			[
+				"linhama",
+				"portal/linha_manchetes.php"
+			],
+			[
+				"linhaman",
+				"portal/linha_manchetes.php"
+			],
+			[
+				"updatecota",
+				"portal/Automatic/update_cotacoes.php"
+			],
+			[
+				"dois",
+				"portal/doisAnos_cotacoes.php"
+			],
+			[
+				"setvar",
+				"portal/Includes/setVars.php"
+			],
+			[
+				"linainter",
+				"portal/linha_interatividade.php"
+			],
+			[
+				"bannertca",
+				"portal/Includes/banners/bannerTCA.php"
+			],
+			[
+				"linhaar",
+				"portal/linha_artigos.php"
+			],
+			[
+				"setva",
+				"portal/Includes/setVars.php"
+			],
+			[
+				"temposma",
+				"portal/tempoSmall.php"
+			],
+			[
+				"linhalat",
+				"portal/linha_lateral.php"
+			],
+			[
+				"agendali",
+				"portal/agendaList.php"
+			],
+			[
+				"liartigos",
+				"portal/linha_artigos.php"
+			],
+			[
+				"geral.j",
+				"portal/Scripts/Geral.js"
+			],
+			[
+				"gera.js",
+				"portal/Scripts/Geral.js"
+			],
+			[
+				"agenda",
+				"portal/agendaList.php"
+			],
+			[
+				"sq",
+				"portal/sql.php"
+			],
+			[
+				"i",
+				"portal/index.php"
+			],
+			[
+				"teste",
+				"portal/teste.php"
+			],
+			[
+				"linhamachte",
+				"portal/linha_manchetes.php"
+			],
+			[
+				"sql",
+				"portal/sql.php"
+			],
+			[
+				"noticias",
+				"portal/noticias.php"
+			],
+			[
+				"agendal",
+				"portal/agendaList.php"
+			],
+			[
+				"newsle",
+				"portal/newsletter_setup.php"
+			],
+			[
+				"automatic",
+				"portal/Automatic/agendaNoticias.php"
+			],
+			[
+				"config",
+				"portal/Includes/config.php"
+			],
+			[
+				"banners",
+				"portal/Includes/Classes/banners.class.php"
+			],
+			[
+				"agendalis",
+				"agendaList.php"
+			],
+			[
+				"linhaarti",
+				"linha_artigos.php"
+			],
+			[
+				"re",
+				"regiao.php"
+			],
+			[
+				"para",
+				"paranhanaOn.php"
+			],
+			[
+				"linha_manchetes.",
+				"linha_manchetes.php"
+			],
+			[
+				"newslettercla",
+				"Includes/Classes/newsletter.class.php"
+			],
+			[
+				".css",
+				"Css/Geral.css"
+			],
+			[
+				"newsletterclass",
+				"Includes/Classes/newsletter.class.php"
+			],
+			[
+				"linhamanche",
+				"linha_manchetes.php"
+			],
+			[
+				"index.ph",
+				"index.php"
+			],
+			[
+				".class.php",
+				"Includes/Classes/oConn.class.php"
+			],
+			[
+				"teste.php",
+				"teste.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/var/www/portal.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 161.0,
+	"status_bar_visible": true
+}
