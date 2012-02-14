@@ -1,0 +1,250 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ti",
+				"time"
+			],
+			[
+				"tim",
+				"timable"
+			],
+			[
+				"mov",
+				"Movable"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"fe",
+				"ferrari"
+			],
+			[
+				"sub",
+				"subtracao"
+			],
+			[
+				"max",
+				"max_age"
+			],
+			[
+				"fas",
+				"fastest"
+			],
+			[
+				"min",
+				"min_speed"
+			],
+			[
+				"mx",
+				"max_speed"
+			],
+			[
+				"Ani",
+				"Animals"
+			],
+			[
+				"fi",
+				"firstCar"
+			],
+			[
+				"se",
+				"secondMutante"
+			],
+			[
+				"sta",
+				"state"
+			],
+			[
+				"stae",
+				"state"
+			],
+			[
+				"num",
+				"numGuess"
+			],
+			[
+				"nu",
+				"numGuess"
+			],
+			[
+				"wor",
+				"word2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/etc/postgresql/9.1/main/pg_hba.conf",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyOO/exercises/modules.rb",
+		"/etc/postgresql/9.1/main/pg_ident.conf",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyOO/exercises/herancas.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyOO/exercises/rich.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyOO/exercises/sobrescrevendoMetodo.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyOO/exercises/cars.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyOO/exercises/mutante.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyOO/exercises/animals.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyOO/exercises/bkp.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/exercises/13_fibonacci.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyOO/exercises/animals",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/exercises/10_exer_interations.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/exercises/12_exer_def_implementations_times.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/exercises/09_exer_hash.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/exercises/12_exer_def_implementations.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/exercises/12_exer_def_implementations",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/exercises/11_exer_exist_state.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/exercises/11_exer_exist_state",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/exercises/11exer.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/views/hello.erb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/server.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/exercises/08_exer_find_occurrences_in_text.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/exercises/05_exer_regex.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/exercises/03_exer.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/exercises/anotations",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/exercises/occurrencesOfLetters.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/exercises/conta.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/exercises/regex.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/exercises/04_exer_data.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/exercises/03_exer_data.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/exercises/02-occurrencesOfLetters.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/exercises/13.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/exercises/conta.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"08",
+				"ruby_on_rails/workshops/RubyIntro/exercises/08_exer_find_occurrences_in_text.rb"
+			],
+			[
+				"10",
+				"ruby_on_rails/workshops/RubyIntro/exercises/10_exer_interations.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/eduardo/projects/ruby_on_rails/ruby.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
