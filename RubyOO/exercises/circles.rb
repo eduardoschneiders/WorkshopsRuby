@@ -23,6 +23,7 @@ class Point
 	def === circle
 		circle.include?(self)
 	end
+	
 end
 
 class Circle
@@ -49,6 +50,10 @@ class Circle
 		sum = radius + circle.radius
 
 		distance < sum
+	end
+
+	def succ
+		Circle.new((point x + 1, y + 1), (radius + 1))
 	end
 
 	def initialize center, radius
@@ -131,4 +136,10 @@ end
 #puts circle(100, 100, 300).diameter
 
 ##INTERSECT##
-puts (circle(0, 0, 3).intersect? circle(0, 4, 2))
+#puts (circle(0, 0, 3).intersect? circle(0, 4, 2))
+
+##TO_A##
+c1 = circle(0,0,0) 
+c2 = circle(10,10,10)
+
+puts ((c1..c2).to_a).inspect
