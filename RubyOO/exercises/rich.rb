@@ -46,22 +46,19 @@ class Rich
 		(@@allRich.sort{|a,b| a.age <=> b.age}).last
 	end
 
-	def forcast
+	def forecast year 
 
-		soma,i =0,0
-		self.fortune.each do |year, value|
+		firstYear = fortune.keys.min
+		lastYear = fortune.keys.max
 
-			soma += value
-			i += 1
-			difference = soma - 
-		end
-
-		media = soma / i
+		avg = difference(firstYear, lastYear) / 2.0
+		
+		fortune[lastYear] + avg * (year-lastYear) 
 	end
 end
 
 
-gates = Rich.new "Gates", {2011 => 56, 2010 => 53, 2009 => 50}, 21, "Taquara", %w{TCA Azaléia}
+gates = Rich.new "Gates", {2011 => 57, 2010 => 53, 2009 => 50}, 21, "Taquara", %w{TCA Azaléia}
 mittal = Rich.new "Mittal",{2011 => 31.1, 2010 => 28.7, 2009 => 19.3}, 25, "Santa Cruz do Sul", %w{Azaléia Afubra}
 eike = Rich.new "eike", {2011 => 30, 2010 => 27}, 26, "Santa Cruz do Sul", %w{Azaléia Afubra}
 slim = Rich.new "slim", {2011 => 04, 2010 => 53.5, 2009 => 35}, 30, "Santa Cruz do Sul", %w{Azaléia Afubra}
@@ -69,4 +66,4 @@ slim = Rich.new "slim", {2011 => 04, 2010 => 53.5, 2009 => 35}, 30, "Santa Cruz 
 #puts gates.difference 2009, 2011 
 #puts gates.richer_than? slim, 2010
 
-puts gates.forcast
+puts gates.forecast 2013
