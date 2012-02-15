@@ -44,6 +44,13 @@ class Circle
 		radius*2
 	end
 
+	def intersect? circle
+		distance = (circle.center.distance self.center)
+		sum = radius + circle.radius
+
+		distance < sum
+	end
+
 	def initialize center, radius
 		@center = center
 		@radius = radius
@@ -121,4 +128,7 @@ end
 #circles.sort
 
 ##DIAMETER##
-puts circle(100, 100, 300).diameter
+#puts circle(100, 100, 300).diameter
+
+##INTERSECT##
+puts (circle(0, 0, 3).intersect? circle(0, 4, 2))
