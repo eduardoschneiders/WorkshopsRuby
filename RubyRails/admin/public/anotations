@@ -1,0 +1,23 @@
+notices
+	title
+	text
+	credits
+	editorial
+	approved
+	address
+
+cities	
+	name
+
+state
+	name
+
+
+attachments
+	name
+	path
+
+	gem 'execjs'
+gem 'therubyracer' 
+
+rails g model notice title:string text:string credits:string editorial:string approved:boolean address:string
