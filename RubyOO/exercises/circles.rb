@@ -57,7 +57,7 @@ class Circle
 	end
 
 	def succ
-		Circle.new((point x + 1, y + 1), (radius + 1))
+		Circle.new center, radius + 1
 	end
 
 	def initialize center, radius
