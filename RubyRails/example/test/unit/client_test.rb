@@ -52,10 +52,10 @@ class ClientTest < ActiveSupport::TestCase
 	  assert client.errors[:age].any?
 	end
 
-	test "validates confirmation of password - nil" do
-	  client = Client.new password: 'hgf654^%$',
-	                password_confirmation: nil
-	  assert ! client.valid?, "client should be invalid"
-	  assert client.errors[:password_confirmation].any?
-	end
+	#test "validates confirmation of password - nil" do
+	#  client = Client.new password: 'hgf654^%$',
+	 #               password_confirmation: nil
+	 # assert ! client.valid?, "client should be invalid"
+	  #assert client.errors[:password_confirmation].any?
+	#end
 end
