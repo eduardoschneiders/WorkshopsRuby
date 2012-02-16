@@ -52,6 +52,10 @@ class Circle
 		distance < sum
 	end
 
+	def inside? circle
+		
+	end
+
 	def succ
 		Circle.new((point x + 1, y + 1), (radius + 1))
 	end
@@ -139,7 +143,14 @@ end
 #puts (circle(0, 0, 3).intersect? circle(0, 4, 2))
 
 ##TO_A##
+#c1 = circle(0,0,0) 
+#c2 = circle(10,10,10)
+
+#puts ((c1..c2).to_a).inspect
+
+##INSIDE?##
+
 c1 = circle(0,0,0) 
 c2 = circle(10,10,10)
 
-puts ((c1..c2).to_a).inspect
+puts c1.inside? c2
