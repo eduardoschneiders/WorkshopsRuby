@@ -2,9 +2,17 @@ notices
 	title
 	text
 	credits
-	editorial
 	approved
 	address
+
+
+categorie
+	name
+		#Regional, geral
+
+editorial
+	name
+		#Política, Economia, Cultúra, Educação, Esportes, Meio Ambiente, 
 
 cities	
 	name

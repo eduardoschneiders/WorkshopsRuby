@@ -4,6 +4,54 @@
 		"selected_items":
 		[
 			[
+				"su",
+				"sum"
+			],
+			[
+				"cir",
+				"circle"
+			],
+			[
+				"tex",
+				"texte"
+			],
+			[
+				"the",
+				"thePoint"
+			],
+			[
+				"po",
+				"point"
+			],
+			[
+				"point",
+				"Point"
+			],
+			[
+				"CIR",
+				"Circle"
+			],
+			[
+				"se",
+				"secondPoint"
+			],
+			[
+				"ra",
+				"radius"
+			],
+			[
+				"ci",
+				"circle"
+			],
+			[
+				"last",
+				"lastYear"
+			],
+			[
+				"first",
+				"firstYear"
+			],
+			[
 				"margin-",
 				"margin-bottom"
 			],
@@ -50,10 +98,6 @@
 			[
 				"mi",
 				"mittal"
-			],
-			[
-				"se",
-				"seconf_year"
 			],
 			[
 				"retor",
@@ -140,18 +184,26 @@
 	"buffers":
 	[
 		{
-			"file": "RubyOO/exercises/cars.rb",
+			"file": "RubyRails/admin/public/robots.txt",
 			"settings":
 			{
-				"buffer_size": 752,
+				"buffer_size": 204,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "RubyOO/exercises/modules.rb",
+			"file": "RubyRails/admin/db/migrate/20120216004146_create_notices.rb",
 			"settings":
 			{
-				"buffer_size": 628,
+				"buffer_size": 272,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "RubyRails/admin/test/unit/notice_test.rb",
+			"settings":
+			{
+				"buffer_size": 233,
 				"line_ending": "Unix"
 			}
 		}
@@ -180,17 +232,21 @@
 	},
 	"file_history":
 	[
+		"/home/eduardoschneiders/Projects/ruby_on_rails/WorkshopsRuby/RubyRails/admin/test/functional/notice_controller_test.rb",
+		"/etc/postgresql/9.1/main/pg_hba.conf",
+		"/home/eduardoschneiders/Projects/ruby_on_rails/WorkshopsRuby/RubyOO/exercises/circles.rb",
+		"/home/eduardoschneiders/Desktop/Fabio Barreto, da empresa Sertanejo SA (Bahia), en",
 		"/home/eduardoschneiders/Projects/ruby_on_rails/WorkshopsRuby/RubyOO/exercises/modules.rb",
+		"/home/eduardoschneiders/Projects/ruby_on_rails/WorkshopsRuby/RubyOO/exercises/rich.rb",
+		"/home/eduardoschneiders/Projects/ruby_on_rails/WorkshopsRuby/RubyOO/exercises/cars.rb",
 		"/var/www/portal/index.php",
 		"/var/www/portal/linha_topNotices_enquetes_tempo.php",
 		"/var/www/portal/Includes/Classes/html.class.php",
 		"/var/www/portal/Css/Geral.css",
-		"/home/eduardoschneiders/Projects/ruby_on_rails/WorkshopsRuby/RubyOO/exercises/rich.rb",
 		"/var/www/portal/noticias.php",
 		"/home/eduardoschneiders/Desktop/anotations",
 		"/media/Dados/EDUARDO/Musics/search.txt",
 		"/home/eduardoschneiders/Projects/ruby_on_rails/WorkshopsRuby/RubyOO/exercises/herancas.rb",
-		"/home/eduardoschneiders/Projects/ruby_on_rails/WorkshopsRuby/RubyOO/exercises/cars.rb",
 		"/home/eduardoschneiders/Projects/ruby_on_rails/WorkshopsRuby/RubyOO/exercises/animals.rb",
 		"/home/eduardoschneiders/Projects/ruby_on_rails/WorkshopsRuby/RubyOO/exercises/sobrescrevendoMetodo.rb",
 		"/home/eduardoschneiders/Projects/ruby_on_rails/WorkshopsRuby/RubyOO/exercises/mutante.rb",
@@ -296,6 +352,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"intersect",
+			"CIRCLE",
 			"class",
 			"color: #FFF",
 			")",
@@ -351,50 +409,77 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "RubyOO/exercises/cars.rb",
+					"file": "RubyRails/admin/public/robots.txt",
 					"settings":
 					{
-						"buffer_size": 752,
+						"buffer_size": 204,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								204,
+								204
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 204.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "RubyOO/exercises/modules.rb",
+					"file": "RubyRails/admin/db/migrate/20120216004146_create_notices.rb",
 					"settings":
 					{
-						"buffer_size": 628,
+						"buffer_size": 272,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								272,
+								272
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "RubyRails/admin/test/unit/notice_test.rb",
+					"settings":
+					{
+						"buffer_size": 233,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								228,
+								228
 							]
 						],
 						"settings":
