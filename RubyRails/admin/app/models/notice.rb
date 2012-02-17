@@ -5,5 +5,5 @@ class Notice < ActiveRecord::Base
 
 	has_many :categorizations
 	has_many :categories, 
-		:through => :categorizations
+		through: :categorizations
 end

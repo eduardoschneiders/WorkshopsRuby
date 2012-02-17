@@ -1,11 +1,10 @@
 Admin::Application.routes.draw do
-  #get "notice/index"
+  resources :users
 
-  #get "notice/show"
+  resources :sessions
+  resources :notices
 
-  resources :notices, only: %w[index show]
-
-  root to: "notice#index"
+  root to: "notices#index"
 
   # The priority is based upon order of creation:
   # first created -> highest priority.

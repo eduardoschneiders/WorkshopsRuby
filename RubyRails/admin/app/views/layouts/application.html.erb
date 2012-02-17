@@ -2,13 +2,18 @@
 <html>
 <head>
   <title>Admin</title>
+  <%= link_to "Logout", session_path(current_user), confirm: "Are you sure?", method: :delete %>
+
+
   <%= stylesheet_link_tag    "application", :media => "all" %>
   <%= javascript_include_tag "application" %>
   <%= csrf_meta_tags %>
 </head>
 <body>
 
+<%= render 'layouts/header' %>
 <%= yield %>
+<%= render 'layouts/footer' %>
 
 </body>
 </html>

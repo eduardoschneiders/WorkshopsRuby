@@ -1,9 +1,9 @@
 require 'test_helper'
 
-class NoticeControllerTest < ActionController::TestCase
+class NoticesControllerTest < ActionController::TestCase
 
 	setup do 
-		@polemicNotice = Notice.new title: "The polemic Notice"
+		@polemicNotice = Notice.create! title: "The polemic Notice", text: "aaaaaaaaaaaaa"
 	end
 	test "should get index" do
 		get :index

@@ -1,4 +1,4 @@
-class NoticeController < ApplicationController
+class NoticesController < ApplicationController
   def index
   	@notices = Notice.all
   end
