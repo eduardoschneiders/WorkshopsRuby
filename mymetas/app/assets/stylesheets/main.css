@@ -1,0 +1,57 @@
+html									{overflow-y:scroll; background: #F7F7F7;}
+body 									{font-family:Arial, Helvetica, sans-serif; font-size:12px; margin: 0;}
+
+a										{color:#333333; text-decoration:none;}
+a:hover									{color:#5476BC;}
+ul										{list-style:none; margin:0; padding:0;}
+ul li, h1, h2, h3, h4, h5, h6			{margin:0; padding:0;list-style:none;}
+p										{margin-top:0;}
+img										{border:none}
+
+.right									{float:right;}
+.left									{float:left;}
+.center									{text-align:center;}
+.justify								{text-align:justify;}
+
+.noMargin								{margin:0}
+.margin									{margin:5px;}
+.marginTop								{margin-top:5px;}
+.marginRight							{margin-right:5px;}
+.marginBottom							{margin-bottom:5px;}
+.marginLeft								{margin-left:5px;}
+
+.padding 								{padding:5px;}
+.paddingTop								{padding-top:5px;}
+.paddingRight							{margin-right:5px;}
+.paddingBottom							{padding-bottom:5px;}
+.paddingLeft							{padding-left:5px;}
+
+.paddingTopBottom						{padding:5px 0}
+.marginTopBottom						{margin:5px 0}
+
+.paddingLeftRight						{padding:0 5px}
+.marginLeftRight						{margin:0 5px}
+
+.margin0								{margin:0;}
+.marginTop0								{margin-top:0;}
+.marginRight0							{margin-right:0;}
+.marginBottom0							{margin-bottom:0;}
+.marginLeft0							{margin-left:0;}
+
+.padding0								{padding:0;}
+.paddingTop0							{padding-top:0;}
+.paddingRight0							{padding-right:0;}
+.paddingBottom0							{padding-bottom:0;}
+.paddingLeft0							{padding-left:0;}
+
+.marginPadding0							{margin:0;padding:0;}
+
+.application 							{width: 1000px; margin: auto;}
+
+.header									{height: 80px;}
+.header .logo							{width: 100px; height: 80px; float: left; background: url(logo.png);}
+.header .menu							{width: 300px; height: 20px; float: left;}
+.header .menu ul li 					{float: left; padding: 0 10px;}
+.header .sessionStatus					{height: 20px; float: right;}
+.footer									{border-top: solid 4px #ccc; background: #F7F7F7;}
+.footer p 								{padding: 10px 0; text-align: center; color: #333;}

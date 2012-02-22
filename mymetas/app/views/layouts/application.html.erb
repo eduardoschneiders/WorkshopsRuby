@@ -1,14 +1,18 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Mymetas</title>
-  <%= stylesheet_link_tag    "application", :media => "all" %>
+  <title>My Metas</title>
+  <%= stylesheet_link_tag    "main"%>
   <%= javascript_include_tag "application" %>
   <%= csrf_meta_tags %>
 </head>
 <body>
-
-<%= yield %>
-
+	<div style="background:#FFF">
+		<div class="application">
+			<%= render 'layouts/header' %>
+			<%= yield %>
+		</div>
+	</div>
+	<%= render 'layouts/footer' %>
 </body>
 </html>

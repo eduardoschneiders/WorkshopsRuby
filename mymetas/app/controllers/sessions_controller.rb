@@ -9,7 +9,7 @@ class SessionsController < ApplicationController
     @user = User.auth(params[:user])
     if @user
       session[:user_id] = @user.id
-      return redirect_to root_path  
+      return redirect_to events_path  
     else
       return redirect_to new_session_path,
       notice: "Usuário ou senha inválidos"
@@ -18,7 +18,7 @@ class SessionsController < ApplicationController
   end
 
   def destroy
-    @session = Session.find(params[:id])
-    @session.destroy
+    session.delete(:user_id)
+    return redirect_to new_session_path
   end
 end

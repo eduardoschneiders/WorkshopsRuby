@@ -1,0 +1,20 @@
+<div class="header">
+	<div class="logo"></div>
+	<div class="menu">
+		<ul>
+			<li><%= link_to "Home", root_path %></li>
+			<li><%= link_to "My events", events_path %></li>
+		</ul>
+	</div>
+	<div class="sessionStatus">
+		<% if current_user %>
+			<h5>
+				<span style="font-weight: normal">Hello <%= current_user.name %></span>
+				<%= link_to "Logout", session_path(current_user), confirm: "Are you sure?", method: :delete %>
+			</h5>
+			
+		<% else%>
+			<h5><%= link_to "Login", new_session_path(current_user) %></h5>
+		<% end %>
+	</div>
+</div>
