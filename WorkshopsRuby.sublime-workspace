@@ -183,30 +183,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "RubyRails/admin/public/robots.txt",
-			"settings":
-			{
-				"buffer_size": 204,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "RubyRails/admin/db/migrate/20120216004146_create_notices.rb",
-			"settings":
-			{
-				"buffer_size": 272,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "RubyRails/admin/test/unit/notice_test.rb",
-			"settings":
-			{
-				"buffer_size": 233,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -232,6 +208,9 @@
 	},
 	"file_history":
 	[
+		"/home/eduardoschneiders/projects/ruby_on_rails/workshopsRuby/RubyRails/admin/public/robots.txt",
+		"/home/eduardoschneiders/projects/ruby_on_rails/workshopsRuby/RubyRails/admin/db/migrate/20120216004146_create_notices.rb",
+		"/home/eduardoschneiders/projects/ruby_on_rails/workshopsRuby/RubyRails/admin/test/unit/notice_test.rb",
 		"/home/eduardoschneiders/Projects/ruby_on_rails/WorkshopsRuby/RubyRails/admin/test/functional/notice_controller_test.rb",
 		"/etc/postgresql/9.1/main/pg_hba.conf",
 		"/home/eduardoschneiders/Projects/ruby_on_rails/WorkshopsRuby/RubyOO/exercises/circles.rb",
@@ -409,89 +388,8 @@
 	"groups":
 	[
 		{
-			"selected": 2,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "RubyRails/admin/public/robots.txt",
-					"settings":
-					{
-						"buffer_size": 204,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								204,
-								204
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "RubyRails/admin/db/migrate/20120216004146_create_notices.rb",
-					"settings":
-					{
-						"buffer_size": 272,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								272,
-								272
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "RubyRails/admin/test/unit/notice_test.rb",
-					"settings":
-					{
-						"buffer_size": 233,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								228,
-								228
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
