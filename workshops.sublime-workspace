@@ -1,0 +1,378 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"he",
+				"height"
+			],
+			[
+				"ba",
+				"background	background-position: position"
+			],
+			[
+				"the",
+				"therubyracer"
+			],
+			[
+				"Couse",
+				"course"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"new",
+				"new_session_path"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"ti",
+				"time"
+			],
+			[
+				"tim",
+				"timable"
+			],
+			[
+				"mov",
+				"Movable"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"fe",
+				"ferrari"
+			],
+			[
+				"sub",
+				"subtracao"
+			],
+			[
+				"max",
+				"max_age"
+			],
+			[
+				"fas",
+				"fastest"
+			],
+			[
+				"min",
+				"min_speed"
+			],
+			[
+				"mx",
+				"max_speed"
+			],
+			[
+				"Ani",
+				"Animals"
+			],
+			[
+				"fi",
+				"firstCar"
+			],
+			[
+				"se",
+				"secondMutante"
+			],
+			[
+				"sta",
+				"state"
+			],
+			[
+				"stae",
+				"state"
+			],
+			[
+				"num",
+				"numGuess"
+			],
+			[
+				"nu",
+				"numGuess"
+			],
+			[
+				"wor",
+				"word2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/mymetas/app/views/layouts/application.html.erb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/mymetas/app/views/layouts/_footer.html.erb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/mymetas/app/assets/stylesheets/main.css",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/mymetas/app/views/layouts/_header.html.erb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/mymetas/app/controllers/application_controller.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/mymetas/config/routes.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/mymetas/app/views/home/index.html.erb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/mymetas/app/controllers/sessions_controller.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/mymetas/app/controllers/home_controller.rb",
+		"/home/eduardo/Desktop/orçamento",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/mymetas/app/assets/stylesheets/application.css",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/mymetas/app/controllers/events_controller.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/mymetas/db/migrate/20120221171442_add_events_references.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/mymetas/db/migrate/20120220171626_create_events.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/admin/db/migrate/20120216184249_create_categorizations.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/admin/app/views/layouts/application.html.erb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/admin/app/controllers/sessions_controller.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/mymetas/app/models/user.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/mymetas/app/views/events/index.html.erb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/mymetas/app/models/event.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/admin/app/views/layouts/_header.html.erb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/admin/app/views/layouts/_footer.html.erb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/admin/app/controllers/application_controller.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/admin/app/views/notices/index.html.erb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/admin/app/models/user.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/admin/app/models/session.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/admin/test/functional/notices_controller_test.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/mymetas/app/views/events/index.html.erb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/mymetas/app/views/sessions/new.html.erb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/mymetas/app/controllers/sessions_controller.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/mymetas/test/functional/event_controller_test.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/mymetas/app/controllers/events_controller.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/mymetas/config/routes.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/mymetas/app/views/events/event.html.erb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/mymetas/db/migrate/20120220171626_create_events.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/admin/config/routes.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/mymetas/app/controllers/event_controller.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/oncourse/app/controllers/application_controller.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/mymetas/Gemfile",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/oncourse/app/controllers/users_controller.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/oncourse/app/controllers/sessions_controller.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/oncourse/app/views/sessions/new.html.erb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/oncourse/app/views/courses/index.html.erb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/oncourse/app/views/courses/show.html.erb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/oncourse/app/models/user.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/admin/app/controllers/users_controller.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/oncourse/config/routes.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/admin/app/views/sessions/new.html.erb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/oncourse/test/functional/sessions_controller_test.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/oncourse/test/unit/session_test.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/oncourse/app/models/course.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/oncourse/test/unit/course_test.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/oncourse/app/controllers/courses_controller.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/oncourse/app/views/courses/_form.html.erb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/oncourse/public/index.html",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/oncourse/test/functional/courses_controller_test.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/admin/app/views/notices/show.html.erb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/admin/app/views/notices/_notice.html.erb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/admin/app/views/notices/ _notice.html.erb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/admin/app/views/notices/ notice.html.erb",
+		"/home/eduardo/Desktop/anotations",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/admin/app/controllers/notices_controller.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/admin/app/models/category.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/admin/app/models/categorization.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/teste/Gemfile",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/admin/app/models/notice.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/admin/test/fixtures/notices.yml",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/admin/test/functional/notice_controller_test.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/admin/app/views/notice/index.html.erb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/admin/app/controllers/notice_controller.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/admin/app/models/categorie.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/admin/app/views/hello/show.html.erb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/admin/test/unit/notice_test.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/admin/app/controllers/hello_controller.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/admin/db/migrate/20120216004146_create_notices.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/admin/db/seeds.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/admin/Gemfile",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/admin/db/migrate/20120216002821_create_notices.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/admin/config/database.yml",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/admin/app/models/city.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/admin/db/migrate/20120215225802_create_notices.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/example/Gemfile",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/example/db/migrate/20120213233119_create_houses.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/example/db/migrate/20120213235901_add_area_to_houses.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/example/db/migrate/20120214004818_create_clients.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/example/db/migrate/20120215213954_create_products.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/example/app/models/client.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/example/app/models/order.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/example/test/unit/client_test.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyOO/exercises/circles.rb",
+		"/home/eduardo/Downloads/Unknown.2011.DVDRip.XviD-MAXSPEED-[ subtitle-English ].srt",
+		"/home/eduardo/projects/ruby_on_rails/ruby.sublime-project",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyIntro/README",
+		"/etc/postgresql/9.1/main/pg_hba.conf",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyOO/exercises/modules.rb",
+		"/etc/postgresql/9.1/main/pg_ident.conf",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyOO/exercises/herancas.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyOO/exercises/rich.rb",
+		"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyOO/exercises/sobrescrevendoMetodo.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyOO/exercises/cars.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyOO/exercises/mutante.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyOO/exercises/animals.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyOO/exercises/bkp.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/exercises/13_fibonacci.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyOO/exercises/animals",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/exercises/10_exer_interations.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/exercises/12_exer_def_implementations_times.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/exercises/09_exer_hash.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/exercises/12_exer_def_implementations.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/exercises/12_exer_def_implementations",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/exercises/11_exer_exist_state.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/exercises/11_exer_exist_state",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/exercises/11exer.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/views/hello.erb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/server.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/exercises/08_exer_find_occurrences_in_text.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/exercises/05_exer_regex.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/exercises/03_exer.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/exercises/anotations",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/exercises/occurrencesOfLetters.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/exercises/conta.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/exercises/regex.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/exercises/04_exer_data.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/exercises/03_exer_data.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/exercises/02-occurrencesOfLetters.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/RubyIntro/exercises/13.rb",
+		"/home/eduardo/projects/ruby_on_rails/workshops/exercises/conta.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/eduardo/projects/ruby_on_rails/WorkshopsRuby/RubyRails/admin/app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"therubyracer",
+			"auth"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"readm",
+				"RubyIntro/README"
+			],
+			[
+				"08",
+				"ruby_on_rails/workshops/RubyIntro/exercises/08_exer_find_occurrences_in_text.rb"
+			],
+			[
+				"10",
+				"ruby_on_rails/workshops/RubyIntro/exercises/10_exer_interations.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/eduardo/projects/ruby_on_rails/ruby.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 171.0,
+	"status_bar_visible": true
+}
